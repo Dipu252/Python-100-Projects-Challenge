@@ -12,7 +12,7 @@ A collection of **100 Python projects** built to improve my programming skills, 
 
 | No. | Project Name | Description |
 |---:|---|---|
-| 1 | Coming Soon | Project description |
+| 1 | Band Name Generator | A simple Python project that generates a potential band name by combining the name of the city where the user grew up with their pet's name. |
 | 2 | Coming Soon | Project description |
 | 3 | Coming Soon | Project description |
 
@@ -42,7 +42,7 @@ python main.py
 
 ## 📈 Progress
 
-**Completed:** 0/100 projects
+**Completed:** 01/100 projects
 
 I will update this repository as I complete each project.
 
